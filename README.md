@@ -1,2 +1,2 @@
-#Practicals
+# Practicals
 I love GitHub
